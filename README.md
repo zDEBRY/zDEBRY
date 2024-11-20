@@ -7,10 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zDEBRY&layout=compact)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zDEBRY&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
-
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=zdebry"
     alt="zdebry"
