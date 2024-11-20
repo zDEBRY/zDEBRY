@@ -1,13 +1,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zDEBRY&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=zdebry"
-    alt="zdebry"
-  />
-</p>
-
-
 <div align="center">
   <a href="https://www.youtube.com/@zDEBRY" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
